@@ -12,7 +12,7 @@ this is a simple web-based ToDo application built using HTML, CSS, and JavaScrip
 ## Overview
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Z7BS8dAN7xL8OSsHyJonvnbo-HsX5NE5/view?usp=share_link" />
+  <img src="Screenshot 2023-03-31 141428.png" />
 </p>
 
 ## Installation
