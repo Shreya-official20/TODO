@@ -1,6 +1,6 @@
 # ToDo Web Application
-<a href = "https://shreya-official20.github.io/TODO/">Link to see the Project.</a>
-This is a simple web-based ToDo application built using HTML, CSS, and JavaScript. The application allows users to create, edit, and delete tasks as well as mark them as complete.
+<a href = "https://shreya-official20.github.io/TODO/"><strong>TODO Web</strong>,</a>
+this is a simple web-based ToDo application built using HTML, CSS, and JavaScript. The application allows users to create, edit, and delete tasks as well as mark them as complete.
 
 ## Features
 
@@ -8,6 +8,12 @@ This is a simple web-based ToDo application built using HTML, CSS, and JavaScrip
 - Edit existing tasks by clicking on the task description and updating it in the input field.
 - Delete tasks by clicking on the "X" button next to each task.
 - Mark tasks as complete by clicking on the checkbox next to each task.
+
+## Overview
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1Z7BS8dAN7xL8OSsHyJonvnbo-HsX5NE5/view?usp=share_link" />
+</p>
 
 ## Installation
 
@@ -18,7 +24,7 @@ git clone https://github.com/Shreya-official20/TODO.git
 ```
 
 ## Usage
-To use the ToDo application, simply enter a task description in the input field and click on the "Add" button to create a new task. To edit an existing task, click on the task description and update it in the input field. To delete a task, click on the "X" button next to each task. To mark a task as complete, click on the checkbox next to each task.
+To use the ToDo application, simply enter a task description in the input field and click on the "Add" button to create a new task. To edit an existing task, click on the task description and update it in the input field. To delete a task, click on the "Delete" button next to each task. To mark a task as complete, click on the checkbox next to each task.
 
 ## Contributing
 If you would like to contribute to the ToDo application, please fork the repository and make your changes. Once you have made your changes, submit a pull request and your changes will be reviewed.
